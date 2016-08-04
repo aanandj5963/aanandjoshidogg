@@ -20,7 +20,7 @@ div.header {
 
 div.navbar {
 	height: 30px;
-	background-color: #99dfff;
+	background-color: #7d7d7d;
 }
 
 div.body {
@@ -30,7 +30,7 @@ div.body {
 div.content {
 	width: 75% !important;
 	float: left; /*Puts content and sidebar next to each other*/
-	background-color: #99ff99;
+	background-color: #99dfff;
 }
 
 div.sidebar {
@@ -44,6 +44,10 @@ div.footer {
 	background-color: #ffe6b3;
 }
 
-p{
+p {
 	color:#FFFFFF;
+}
+
+p.grey {
+	color:#B5B5B5;
 }
