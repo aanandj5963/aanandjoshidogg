@@ -48,3 +48,11 @@ li{
 	display: inline;
 	padding: 10px;
 }
+
+p.skyblue{
+	color:skyblue !important;
+}
+
+a, a:visited{
+	color: #0062FF;
+}
