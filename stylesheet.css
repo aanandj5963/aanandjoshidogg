@@ -44,10 +44,24 @@ div.footer {
 	background-color: #ffe6b3;
 }
 
+<<<<<<< HEAD
 p {
 	color:#FFFFFF;
 }
 
 p.grey {
 	color:#B5B5B5;
+=======
+li{
+	display: inline;
+	padding: 10px;
+}
+
+p.skyblue{
+	color:skyblue !important;
+}
+
+a, a:visited{
+	color: #0062FF;
+>>>>>>> origin/master
 }
