@@ -14,12 +14,12 @@ div.all {
 }
 
 div.header {
-	height: 200px;
-	background-color: #ffcccc;
+	height: 310px;
+	background-color: #99dfff;
 }
 
 div.navbar {
-	height: 30px;
+	height: 50px;
 	background-color: #7d7d7d;
 }
 
@@ -47,7 +47,7 @@ div.footer {
 
 p.grey {
 	color:#B5B5B5;
-
+}
 li{
 	display: inline;
 	padding: 10px;
@@ -58,5 +58,25 @@ p.skyblue{
 }
 
 a, a:visited{
-	color: #0062FF;
+	color: #FFFFFF;
+}
+
+table {
+		border-style:solid;
+		border-width:2px;
+		border-collapse:collapse;
+}
+
+td {
+		border-style:solid;
+		border-width:2px;
+		color:#99dfff;
+		font-family:Impact;
+		font-size:19pt;
+}
+
+a.white{
+		color:white;
+		padding-right:17px;
+		padding-left:17px;
 }
