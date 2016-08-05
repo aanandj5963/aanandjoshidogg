@@ -15,7 +15,7 @@ div.all {
 
 div.header {
 	height: 200px;
-	background-color: #ffcccc;
+	background-color: #99dfff;
 }
 
 div.navbar {
@@ -46,7 +46,8 @@ div.footer {
 
 
 p.grey {
-	color:#B5B5B5;
+	color:#7d7d7d;
+}
 
 li{
 	display: inline;
