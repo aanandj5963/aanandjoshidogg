@@ -82,3 +82,7 @@ p {
 	font-family:Impact;
 	font-size:14pt;
 }
+
+.sidebar p {
+	margin: 0px !important;
+}
