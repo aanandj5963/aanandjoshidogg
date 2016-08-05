@@ -90,4 +90,16 @@ a.white{
 
 p {
 	font-family:calibri;
+	font-size:13pt;
+}
+
+p.left{
+	float:left;
+}
+
+p.Impact{
+	font-family:Impact;
+	font-size:70pt;
+	padding-right: 40px;
+	color:black;
 }
