@@ -30,16 +30,13 @@ div.body {
 div.content {
 	width: 75% !important;
 	float: left; /*Puts content and sidebar next to each other*/
-	background-color: #99ff99;
+	background-color: #99dfff;
 }
 
 div.sidebar {
 	width: 25% !important;
 	float: left; /*Puts content and sidebar next to each other*/
-	background-color:white;
-	border-style:solid;
-	border-width:4px;
-	border-color:#7d7d7d;
+	background-color: #ccccff;
 }
 
 div.footer {
@@ -47,14 +44,25 @@ div.footer {
 	background-color: #ffe6b3;
 }
 
-p.left{
-	float:left;
+p {
+	color:#FFFFFF;
 }
 
-p.Impact{
-	font-family:Impact;
-	font-size:70pt;
-	padding-right: 40px;
+p.grey {
+	color:#7d7d7d;
+}
+
+li{
+	display: inline;
+	padding: 10px;
+}
+
+p.skyblue{
+	color:skyblue !important;
+}
+
+a, a:visited{
+	color: #0062FF;
 }
 
 table {
@@ -75,10 +83,8 @@ a.white{
 		color:white;
 		padding-right:17px;
 		padding-left:17px;
-		font-family:impact;
 }
 
 p {
-	font-family:Impact;
-	font-size:14pt;
+	font-family:sans-serif;
 }
