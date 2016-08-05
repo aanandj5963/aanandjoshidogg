@@ -36,7 +36,10 @@ div.content {
 div.sidebar {
 	width: 25% !important;
 	float: left; /*Puts content and sidebar next to each other*/
-	background-color: #ccccff;
+	background-color:white;
+	border-style:solid;
+	border-width:4px;
+	border-color:#7d7d7d;
 }
 
 div.footer {
@@ -86,5 +89,5 @@ a.white{
 }
 
 p {
-	font-family:sans-serif;
+	font-family:calibri;
 }
